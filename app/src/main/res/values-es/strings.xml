@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Visor web</string>
+    <string name="buttonMes">Ir</string>
+    <string name="buttonYahoo">Ir</string>
+    <string name="textViewMesa">Universidad de Mesa</string>
+    <string name="textViewSelect">Seleccione un sitio web</string>
+    <string name="textViewYahoo">Yahoo en espanol</string>
+</resources>

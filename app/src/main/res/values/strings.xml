@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Web Viewer</string>
+    <string name="textViewSelect">Please select a website</string>
+    <string name="textViewMesa">Mesa College</string>
+    <string name="textViewYahoo">Yahoo</string>
+    <string name="buttonMes">Go</string>
+    <string name="buttonYahoo">Go</string>
+</resources>
